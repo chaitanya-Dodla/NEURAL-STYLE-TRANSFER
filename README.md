@@ -55,3 +55,8 @@ This project has many real-world applications in digital art, graphic design, en
 output:
 
 This project demonstrates how Artificial Intelligence and Deep Learning can be used to generate artistic images through Neural Style Transfer. By using Google Colab, TensorFlow, and VGG19, developers can easily create advanced AI-powered image transformation applications without requiring expensive hardware or advanced machine learning expertise.
+OUTPUT:
+<img width="1600" height="702" alt="Image" src="https://github.com/user-attachments/assets/2a613539-9f0f-4648-b13c-9f935c553296" />
+d machine learning expertise.
+
+<img width="1489" height="944" alt="Image" src="https://github.com/user-attachments/assets/28b59b62-09bf-4bf7-9fe1-45f6394c3a69" />
